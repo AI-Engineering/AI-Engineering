@@ -1,4 +1,5 @@
-### Hi there 👋
+### Dept. of AI Engineering
+### Daegu Campus, Korea Polytechnics
 
 <!--
 **AI-Engineering/AI-Engineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
